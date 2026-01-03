@@ -1,5 +1,5 @@
 {
-  "name": "malvin-xd",
+  "name": "vicent-xd",
   "version": "2.1.1",
   "description": "MALVIN XD - Advanced WhatsApp Bot",
   "website": "cooming soon",
@@ -12,7 +12,7 @@
     "BOT_NAME": {
       "description": "Your Bot Name",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "VICENT xᴅ"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
@@ -22,7 +22,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "263776388689"
+      "value": "255684164991"
     },
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'starcore~'",
